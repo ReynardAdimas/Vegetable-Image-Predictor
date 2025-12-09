@@ -1,7 +1,7 @@
 const CLASSES = [
-    "Bean", "Bitter_Gourd", "Bottle_Gourd", "Brinjal", "Broccoli", 
-    "Cabbage", "Capsicum", "Carrot", "Cauliflower", "Cucumber", 
-    "Papaya", "Potato", "Pumpkin", "Radish", "Tomato"
+    "Bean (Kacang Koro)", "Bitter Gourd (Pare)", "Bottle Gourd (Labu Air)", "Brinjal (Terong)", "Broccoli (Brokoli)", 
+    "Cabbage (Kubis)", "Capsicum (Paprika)", "Carrot (Wortel)", "Cauliflower (Bunga Kol)", "Cucumber (Timun)", 
+    "Papaya", "Potato (Kentang)", "Pumpkin", "Radish (Lobak)", "Tomato (Tomat)"
 ];
 
 const imageUpload = document.getElementById('image-upload');
